@@ -1,0 +1,6 @@
+{
+  "name": "Beach Cleanup",
+  "description": "An ocean conservation beach cleanup game tracking litter collected, rewarding digital badges with music, sfx, tactile feedback, beach artifacts, and a global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
